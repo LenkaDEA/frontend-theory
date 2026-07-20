@@ -1,0 +1,4 @@
+- [Дженерики (Generics)](Data%20Base/TS/Дженерики%20(Generics).md)
+- [Utility Types](Data%20Base/TS/Utility%20Types.md)
+- [Абстрактные классы](Data%20Base/TS/Абстрактные%20классы.md)
+- 
